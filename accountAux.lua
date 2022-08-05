@@ -3,7 +3,7 @@ local internet = require("internet")
 local filesystem = require("filesystem")
 local shell = require("shell")
 
-local urlAccount = "http://myaenetwork.ovh/accountCreation"
+local urlAccount = "https://data.dasrex.xyz/accountCreation"
 local webIdPath = "/home/myaenetwork/webIdentification.txt"
 local workDirectory = "/home/myaenetwork/"
 local newDirectory = "/home/myaenetwork"
