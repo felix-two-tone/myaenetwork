@@ -20,9 +20,9 @@ local working = true
 local webIdPath = "home/myaenetwork/webIdentification.txt"
 local workingDirectory = "home/myaenetwork/"
 
-local urlSendItemData = "http://myaenetwork.ovh/inputItemData"
-local pingUrl = "http://myaenetwork.ovh/toPing"
-local urlSendCraftingStatus = "http://myaenetwork.ovh/inputCraftingStatus"
+local urlSendItemData = "https://data.dasrex.xyz//inputItemData"
+local pingUrl = "https://data.dasrex.xyz//toPing"
+local urlSendCraftingStatus = "https://data.dasrex.xyz//inputCraftingStatus"
 
 local issuedCraftingRequest = {}
 local maxPing = 1000
